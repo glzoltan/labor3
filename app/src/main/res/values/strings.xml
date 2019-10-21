@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">labor3</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="add">Add a new Hobby</string>
+    <string name="hobby">Your new Hobby</string>
+
+</resources>
